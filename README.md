@@ -88,14 +88,14 @@ Here is a table of language code to language name, in alphabetical order. These 
 | `bg` | Bulgarian | български език | 🚧 |
 | `bn` | Bengali | বাংলা | 🚧 |
 | `ca` | Catalan | català | 🚧 |
-| `cs` | Czech | čeština | ✅ |
+| `cs` | Czech | čeština | 🚧 |
 | `da` | Danish | Dansk | ✅ |
 | `de` | German | Deutsch | ✅ |
 | `dv` | Dhivehi | ދިވެހި | 🚧 |
 | `el` | Greek | Ελληνικά | 🚧 |
 | `eo` | Esperanto | Esperanto | 🚧 |
 | `es` | Spanish | Español | ✅ |
-| `fa` | Persian | فارسی | ✅ |
+| `fa` | Persian | فارسی | 🚧 |
 | `fi-fi` | Finnish | suomi | 🚧 |
 | `fr` | French | français | ✅ |
 | `gl` | Galician  | Galego | 🚧 |
@@ -125,6 +125,7 @@ Here is a table of language code to language name, in alphabetical order. These 
 | `ta` | Tamil | தமிழ் | 🚧 |
 | `te` | Telugu | తెలుగు | 🚧 |
 | `th` | Thai | ไทย | ✅ |
+| `tl` | Filipino (Tagalog) | Tagalog | 🚧 |
 | `tr` | Turkish | Türkçe | ✅ |
 | `uk` | Ukrainian | Українська | 🚧 |
 | `ur` | Urdu | اردو | 🚧 |
